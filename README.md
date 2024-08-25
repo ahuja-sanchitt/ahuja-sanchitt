@@ -23,11 +23,10 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 </div>
 
 ### Frameworks
-<div >
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
-</div>
+
+[![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,express)](https://skillicons.dev)
+
+
 
 ### Databases
 <div >
