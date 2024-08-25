@@ -42,8 +42,10 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 
 ## 📬 Get in Touch
 
-- [![LinkedIn](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/linkedin.svg)](https://www.linkedin.com/in/sanchit-ahuja-088a871a4/)
-- [![Gmail](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/google.svg)](mailto:sanchitahujafas@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sanchitahujafas@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanchit-ahuja-088a871a4/)
+
+
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
