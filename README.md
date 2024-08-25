@@ -7,7 +7,7 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 ## 🚀 About Me
 
 - 📝 I have completed MCA from Guru Gobind Singh Indraprastha University(GGSIPU)
-- 🔨 I am a passionate Backend Developer with a strong interest in designing and optimizing APIs and backend architecture.
+- 🔨 I am a passionate Backend Developer with a strong interest in designing and optimizing backend architecture.
 - 🌐 Gained valuable experience interning at two startups,including [Ultipa](https://www.linkedin.com/company/ultipa/), a cutting-edge Silicon Valley startup
 - ⚽ Football Lover
 
