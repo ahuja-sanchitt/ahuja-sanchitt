@@ -11,11 +11,18 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 - 🌐 Gained valuable experience interning at two startups,including [Ultipa](https://www.linkedin.com/company/ultipa/), a cutting-edge Silicon Valley startup
 - ⚽ Football Lover
 
-
 ## Tech Stack
+
+### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=py,django,flask,fastapi,express)](https://skillicons.dev)
+
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,express)](https://skillicons.dev)
+
+### Databases
 [![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### Tools
 [![Tools](https://skillicons.dev/icons?i=aws,github,gitlab,postman,redis)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
@@ -35,8 +42,8 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 
 ## 📬 Get in Touch
 
-- [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/sanchit-ahuja-088a871a4/)
-- [![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg)](mailto:sanchitahujafas@gmail.com)
+- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/sanchit-ahuja-088a871a4/)
+- [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="20" height="20"/>](mailto:sanchitahujafas@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
