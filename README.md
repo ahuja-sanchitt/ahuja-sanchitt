@@ -59,7 +59,7 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 
 - 🌟 AWS Cloud Technical Essentials
 - 🌟 Generative AI with Large Language Models
-- 🌟 Microsoft Virtual Progran Participant
+- 🌟 Microsoft Virtual Program Participant
 
 
 ## 📬 Get in Touch
