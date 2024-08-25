@@ -14,7 +14,12 @@ I am a passionate Software Engineer, driven by a curiosity for technology. My jo
 ## Tech Stack
 
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=py,cpp,js)](https://skillicons.dev)
+
+<div >
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+</div>
 
 ### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,express)](https://skillicons.dev)
