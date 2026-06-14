@@ -46,14 +46,14 @@ Software Development Engineer @ Spinny • Backend Engineer • Building with Ge
 </div>
 
 ##  💼 What I've been building
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LuurHnVPTNZjWlezehVyxZkuUei35JRRLw&s" width="70" align="top"/> Spinny - Software Development Engineer
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LuurHnVPTNZjWlezehVyxZkuUei35JRRLw&s" width="55" align="top"/> Spinny - Software Development Engineer
 
 - Own the Warranty Service, a core backend handling 100% of warranty flows across Refurb Operations and Customer Experience
 - Built a real-time coverage-signal layer and a conditional LLM-powered Denial Bot, cutting invalid warranty demand by ~80 tickets/day with end-to-end auto-resolution
 - Shipped an AI chatbot, voice notes, and auto-recategorisation on CX support — contributing to a 25% drop in First Response Time
 - Reduced human intervention by 40% through automation and decision-support systems
 
-### <img src="https://media.licdn.com/dms/image/v2/C560BAQEnlrVKGhUjIg/company-logo_200_200/company-logo_200_200/0/1654086783061/ultipa_logo?e=2147483647&v=beta&t=bgI00n1P1tBxOAEQhrfgz5QgqbOu4QpZSY5Toh_imLc" width="70" align="top"/ Ultipa — Software Engineer Intern
+### <img src="https://media.licdn.com/dms/image/v2/C560BAQEnlrVKGhUjIg/company-logo_200_200/company-logo_200_200/0/1654086783061/ultipa_logo?e=2147483647&v=beta&t=bgI00n1P1tBxOAEQhrfgz5QgqbOu4QpZSY5Toh_imLc" width="55" align="top"/> Ultipa — Software Engineer Intern
 
 - Refactored and extended the Python SDK (20+ new functions, 35+ revamped) — 15% increase in adoption
 - Raised SDK test coverage by 50%, catching critical bugs early
