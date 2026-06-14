@@ -46,7 +46,7 @@ Software Development Engineer @ Spinny • Backend Engineer • Building with Ge
 </div>
 
 ##  💼 What I've been building
-### Spinny — Software Development Engineer
+### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7yeckwHMWoBDKFMX4SJHNscdsRGxx2ZAH0g&s" width="22" align="top"/> Spinny — Software Development Engineer
 
 - Own the Warranty Service, a core backend handling 100% of warranty flows across Refurb Operations and Customer Experience
 - Built a real-time coverage-signal layer and a conditional LLM-powered Denial Bot, cutting invalid warranty demand by ~80 tickets/day with end-to-end auto-resolution
