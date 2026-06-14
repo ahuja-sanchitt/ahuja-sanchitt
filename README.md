@@ -3,7 +3,7 @@
 Software Development Engineer @ Spinny • Backend Engineer • Building with GenAI 🤖
 
 ## 🚀 About Me
-- 💼 SDE-1 at Spinny, where I own the Warranty backend and build AI-driven customer-support system
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LuurHnVPTNZjWlezehVyxZkuUei35JRRLw&s" width="30" align="top"/> SDE-1 at Spinny, where I own the Warranty backend and build AI-driven customer-support system
 - 🔨 Backend engineer at heart: APIs, microservices, and the messy real-world systems behind them
 - 🌐 Previously interned at [Ultipa](https://www.linkedin.com/company/ultipa/), a Silicon Valley graph-database startup, working on their Python SDK and Graph-RAG
 - 🎓 MCA from Bharati Vidyapeeth's Institute (BVICAM), GGSIPU — CGPA 8.9
@@ -45,17 +45,25 @@ Software Development Engineer @ Spinny • Backend Engineer • Building with Ge
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 
+### AI / LLM
+<div>
+	<img width="50" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude"/>
+	<img width="50" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face"/>
+	<img width="50" src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain"/>
+	<img width="50" src="https://cdn.simpleicons.org/ollama" alt="Ollama" title="Ollama"/>
+</div>
+
 ##  💼 What I've been building
 ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LuurHnVPTNZjWlezehVyxZkuUei35JRRLw&s" width="55" align="top"/> Spinny - Software Development Engineer
 
 - Own the Warranty Service, a core backend handling 100% of warranty flows across Refurb Operations and Customer Experience
 - Built a real-time coverage-signal layer and a conditional LLM-powered Denial Bot, cutting invalid warranty demand by ~80 tickets/day with end-to-end auto-resolution
-- Shipped an AI chatbot, voice notes, and auto-recategorisation on CX support — contributing to a 25% drop in First Response Time
+- Shipped an AI chatbot, voice notes, and auto-recategorisation on CX support, contributing to a 25% drop in First Response Time
 - Reduced human intervention by 40% through automation and decision-support systems
 
-### <img src="https://media.licdn.com/dms/image/v2/C560BAQEnlrVKGhUjIg/company-logo_200_200/company-logo_200_200/0/1654086783061/ultipa_logo?e=2147483647&v=beta&t=bgI00n1P1tBxOAEQhrfgz5QgqbOu4QpZSY5Toh_imLc" width="55" align="top"/> Ultipa — Software Engineer Intern
+### <img src="https://media.licdn.com/dms/image/v2/C560BAQEnlrVKGhUjIg/company-logo_200_200/company-logo_200_200/0/1654086783061/ultipa_logo?e=2147483647&v=beta&t=bgI00n1P1tBxOAEQhrfgz5QgqbOu4QpZSY5Toh_imLc" width="55" align="top"/> Ultipa - Software Engineer Intern
 
-- Refactored and extended the Python SDK (20+ new functions, 35+ revamped) — 15% increase in adoption
+- Refactored and extended the Python SDK (20+ new functions, 35+ revamped): 15% increase in adoption
 - Raised SDK test coverage by 50%, catching critical bugs early
 - Engineered a Graph-RAG solution to improve information retrieval
 
