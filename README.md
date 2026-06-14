@@ -1,12 +1,13 @@
 # Hi, I'm Sanchit! 👋
 
-I am a passionate Software Engineer, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Software Development Engineer @ Spinny • Backend Engineer • Building with GenAI 🤖
 
 ## 🚀 About Me
-
-- 📝 I have completed MCA from Guru Gobind Singh Indraprastha University(GGSIPU)
-- 🔨 I am a passionate Backend Developer with a strong interest in designing and optimizing backend architecture.
-- 🌐 Gained valuable experience interning at two startups,including [Ultipa](https://www.linkedin.com/company/ultipa/), a cutting-edge Silicon Valley startup
+- 💼 SDE-1 at Spinny, where I own the Warranty backend and build AI-driven customer-support system
+- 🔨 Backend engineer at heart: APIs, microservices, and the messy real-world systems behind them
+- 🌐 Previously interned at [Ultipa](https://www.linkedin.com/company/ultipa/), a Silicon Valley graph-database startup, working on their Python SDK and Graph-RAG
+- 🎓 MCA from Bharati Vidyapeeth's Institute (BVICAM), GGSIPU — CGPA 8.9
+- 🤖 Going deep on LLMs, RAG, and agentic systems
 - ⚽ Football Lover
 
 ## Tech Stack
