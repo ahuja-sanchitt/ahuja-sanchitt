@@ -45,13 +45,24 @@ Software Development Engineer @ Spinny • Backend Engineer • Building with Ge
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
 </div>
 
-## 🌱 Currently Exploring
+##  💼 What I've been building
+### Spinny — Software Development Engineer
 
-- 🚀 Learning Generative AI Concepts
-  - Learning Neo4j
-  - Deep Dive into Large Language Models (LLMs): Exploring the architecture and capabilities of LLMs, understanding their potential in various AI-driven applications
-  - Mastering Retrieval-Augmented Generation (RAG) Systems: Investigating the mechanics of RAG systems, learning how they enhance generative models by integrating real-time data retrieval.
-  - Experimenting with GraphRAG Systems: Delving into the synergy between graph databases and RAG systems, experimenting with innovative ways to improve AI model accuracy and context-awareness.
+- Own the Warranty Service, a core backend handling 100% of warranty flows across Refurb Operations and Customer Experience
+- Built a real-time coverage-signal layer and a conditional LLM-powered Denial Bot, cutting invalid warranty demand by ~80 tickets/day with end-to-end auto-resolution
+- Shipped an AI chatbot, voice notes, and auto-recategorisation on CX support — contributing to a 25% drop in First Response Time
+- Reduced human intervention by 40% through automation and decision-support systems
+
+### Ultipa — Software Engineer Intern
+
+- Refactored and extended the Python SDK (20+ new functions, 35+ revamped) — 15% increase in adoption
+- Raised SDK test coverage by 50%, catching critical bugs early
+- Engineered a Graph-RAG solution to improve information retrieval
+
+## 🌱Currently Building
+
+- 🚀 a ReAct web-search agent, an AI résumé ranker (hybrid embeddings + LLM-as-judge), and a multi-document knowledge base with hybrid search & reranking
+- claude-decision-log — a tiny tool that makes Claude Code keep an append-only log of project decisions and their tradeoffs 
 
  ## 🏆 Certifications
 
