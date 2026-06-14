@@ -2,8 +2,6 @@
 
 I am a passionate Software Engineer, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-[![GitHub Stats](https://streak-stats.demolab.com?user=ahuja-sanchitt&theme=tokyonight-duo)](https://git.io/streak-stats)
-
 ## 🚀 About Me
 
 - 📝 I have completed MCA from Guru Gobind Singh Indraprastha University(GGSIPU)
