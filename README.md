@@ -1,106 +1,78 @@
 # Hi, I'm Sanchit! 👋
 
-Software Development Engineer @ Spinny • Backend Engineer • Building with GenAI 🤖
+### Software Development Engineer | Backend Engineer | Building with GenAI 🤖
+
+<img src="https://komarev.com/ghpvc/?username=ahuja-sanchitt&color=blueviolet" alt="Profile views" />
 
 ## 🚀 About Me
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LuurHnVPTNZjWlezehVyxZkuUei35JRRLw&s" width="30" align="top"/> SDE-1 at Spinny, where I own the Warranty backend and build AI-driven customer-support system
-- 🔨 Backend engineer at heart: APIs, microservices, and the messy real-world systems behind them
-- 🌐 Previously interned at [Ultipa](https://www.linkedin.com/company/ultipa/), a Silicon Valley graph-database startup, working on their Python SDK and Graph-RAG
-- 🎓 MCA from Bharati Vidyapeeth's Institute (BVICAM), GGSIPU — CGPA 8.9
-- 🤖 Going deep on LLMs, RAG, and agentic systems
-- ⚽ Football Lover
 
-## Tech Stack
+Most engineers stop at "it works." I'm interested in *why* it works, what it costs, and what breaks at scale.
 
-### Programming Languages
+I didn't just learn to code; I learned to **own problems end-to-end**. From my first Graph-RAG pipeline to LLM-powered automation that resolves real work without a human in the loop, every project pushes me to think about **systems, not syntax**.
 
-<div >
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>	
-	
-</div>
+I care about the *why* behind every feature: how it moves a metric, saves a team hours, or makes an experience feel effortless. That mindset is what's pulling me deeper into **AI and agentic systems**. Off the clock, I'm building GenAI side projects and losing arguments about football. ⚽
 
-### Frameworks
+## 🧰 Tech Stack
 
-[![Frameworks](https://skillicons.dev/icons?i=django,flask,fastapi,express)](https://skillicons.dev)
+**Languages**
 
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js)](https://skillicons.dev)
 
+**Backend & Frameworks**
 
-### Databases
-<div >
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png" alt="neo4j" title="neo4j"/>
-	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/>
-</div>
+[![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,react,graphql,redis)](https://skillicons.dev)
 
-### Tools
-<div >
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-</div>
+> Also: Django REST Framework, Microservices, Kafka, Celery, gRPC, REST APIs
 
-### AI / LLM
-<div>
-	<img width="50" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude"/>
-	<img width="50" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face"/>
-	<img width="50" src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain"/>
-	<img width="50" src="https://cdn.simpleicons.org/ollama" alt="Ollama" title="Ollama"/>
-</div>
+**Databases**
 
-##  💼 What I've been building
-### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5LuurHnVPTNZjWlezehVyxZkuUei35JRRLw&s" width="40" align="top"/> Spinny - Software Development Engineer
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite)](https://skillicons.dev)
 
-- Own the Warranty Service, a core backend handling 100% of warranty flows across Refurb Operations and Customer Experience
-- Built a real-time coverage-signal layer and a conditional LLM-powered Denial Bot, cutting invalid warranty demand by ~80 tickets/day with end-to-end auto-resolution
-- Shipped an AI chatbot, voice notes, and auto-recategorisation on CX support, contributing to a 25% drop in First Response Time
-- Reduced human intervention by 40% through automation and decision-support systems
+> Plus graph databases (Ultipa)
 
-### <img src="https://media.licdn.com/dms/image/v2/C560BAQEnlrVKGhUjIg/company-logo_200_200/company-logo_200_200/0/1654086783061/ultipa_logo?e=2147483647&v=beta&t=bgI00n1P1tBxOAEQhrfgz5QgqbOu4QpZSY5Toh_imLc" width="40" align="top"/> Ultipa - Software Engineer Intern
+**DevOps & Tools**
 
-- Refactored and extended the Python SDK (20+ new functions, 35+ revamped): 15% increase in adoption
-- Raised SDK test coverage by 50%, catching critical bugs early
-- Engineered a Graph-RAG solution to improve information retrieval
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,git,github,postman,vscode)](https://skillicons.dev)
 
-## 🌱Currently Building
+**AI / LLM**
 
-- 🚀 a ReAct web-search agent, an AI résumé ranker (hybrid embeddings + LLM-as-judge), and a multi-document knowledge base with hybrid search & reranking
-- claude-decision-log — a tiny tool that makes Claude Code keep an append-only log of project decisions and their tradeoffs 
+<img width="48" src="https://cdn.simpleicons.org/claude/D97757" alt="Claude" title="Claude" />&nbsp;
+<img width="48" src="https://cdn.simpleicons.org/anthropic" alt="Anthropic" title="Anthropic" />&nbsp;
+<img width="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" alt="OpenAI" title="OpenAI" />&nbsp;
+<img width="48" src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" />&nbsp;
+<img width="48" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" />&nbsp;
+<img width="48" src="https://cdn.simpleicons.org/ollama/000000" alt="Ollama" title="Ollama" />
 
- ## 🏆 Certifications
+## 💼 Experience
 
+### 🚗 [Spinny](https://www.spinny.com/) - Software Development Engineer *(Oct 2024 - Present)*
+- Own the **Warranty Service**, a core backend handling **100%** of warranty flows across Refurb Operations & Customer Experience
+- Built a real-time coverage-signal layer and a conditional **LLM-powered Denial Bot**, cutting invalid warranty demand by **~120 tickets/day** with end-to-end auto-resolution
+- Shipped an **AI chatbot, voice notes, and auto-recategorisation** on CX support, contributing to a **25% drop in First Response Time**
+- Reduced human intervention by **40%** through automation and decision-support systems
+
+### 🔗 [Ultipa](https://www.linkedin.com/company/ultipa/) - Software Engineer Intern *(Jan 2024 - Aug 2024)*
+- Refactored and extended the **Python SDK** (20+ new functions, 35+ revamped) for a **15% increase** in adoption
+- Raised SDK **test coverage by 50%**, catching critical bugs early
+- Engineered a **Graph-RAG** solution to improve information retrieval
+
+## 🛠️ Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Lodestar: AI Resume Match & Outreach Co-Pilot**](https://github.com/ahuja-sanchitt/ResumeRanker) | Hybrid resume-to-JD scorer (embeddings + skill-coverage + LLM-as-judge) with an explainable score, plus a cold-outreach co-pilot | Python, FastAPI, React, OpenAI, Redis, Prometheus/Grafana |
+| [**claude-decision-log**](https://github.com/ahuja-sanchitt/claude-decision-log) | A Claude Code tool (slash commands + pre-commit hook) that keeps an append-only log of project decisions and their tradeoffs | Python, Git hooks |
+| **Graph-RAG Knowledge Base** *(WIP)* | Multi-document knowledge base with hybrid search & reranking and a ReAct web-search agent | Python, Vector DB, LLMs |
+
+## 🏆 Certifications
 - 🌟 AWS Cloud Technical Essentials
-- 🌟 Generative AI with Large Language Models
-- 🌟 Microsoft Virtual Program Participant
-
+- 🌟 Generative AI with Large Language Models *(DeepLearning.AI)*
+- 🌟 Django Web Framework *(Meta)*
 
 ## 📬 Get in Touch
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sanchitahujafas@gmail.com)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanchit-ahuja-088a871a4/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sanchit-ahuja-088a871a4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanchit-ahuja-info.vercel.app/)
 
-
-
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Always up for talking systems, AI, or football. Reach out and let's build something worth shipping. ⚽
