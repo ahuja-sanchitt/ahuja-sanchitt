@@ -2,8 +2,6 @@
 
 ### Software Development Engineer | Backend Engineer | Building with GenAI 🤖
 
-<img src="https://komarev.com/ghpvc/?username=ahuja-sanchitt&color=blueviolet" alt="Profile views" />
-
 ## 🚀 About Me
 
 Most engineers stop at "it works." I'm interested in *why* it works, what it costs, and what breaks at scale.
